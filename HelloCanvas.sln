@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "HelloCanvas", "HelloCanvas\", "{A2D13011-03E6-4AE7-8505-C3895C92476B}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_50615"
+		Debug.AspNetCompiler.PhysicalPath = "HelloCanvas\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50615\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_50615"
+		Release.AspNetCompiler.PhysicalPath = "HelloCanvas\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_50615\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "50615"
+		SlnRelativePath = "HelloCanvas\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2D13011-03E6-4AE7-8505-C3895C92476B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2D13011-03E6-4AE7-8505-C3895C92476B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {495553E8-175E-447E-B906-74203C423628}
+	EndGlobalSection
+EndGlobal
